@@ -14,5 +14,6 @@ Also, allows them to choose the charachter types including uppercase, lowercase 
 
 ## Contribution
 Ricardo Gallardo 
+Xander Rapstine
 
 
